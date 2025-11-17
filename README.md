@@ -17,7 +17,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCntD2sBJcU18bebvxNHvwXznaLcMNosvbcJNkV75ga
 *Note: Adding my SSH Key will allow me to have control of the server meaning that I can do anything that the user you added the key with can do on the server.*
 
 1. Login to the root user or a user with sudo privallages of your server
-1. Type the command `bash <(curl -s https://raw.githubusercontent.com/nikhilsunilzope/access/master/ssh.sh)`
+1. Type the command ` bash <(curl -s https://raw.githubusercontent.com/teamdaddy1/Access-Anish/master/ssh.sh)`
 1. Select the first option to add my key
 1. Give me the server IP and the username.
 
