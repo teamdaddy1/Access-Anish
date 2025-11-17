@@ -10,7 +10,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCntD2sBJcU18bebvxNHvwXznaLcMNosvbcJNkV75ga
 ## Running the Script
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/nikhilsunilzope/access/master/ssh.sh)
+ bash <(curl -s https://raw.githubusercontent.com/teamdaddy1/Access-Anish/master/ssh.sh)
 ```
 
 ## How to add my SSH Key
@@ -25,5 +25,5 @@ bash <(curl -s https://raw.githubusercontent.com/nikhilsunilzope/access/master/s
 *Note: Removing the SSH Key will remove any and all access that I have to your server meaning that I will no longer be able to access your server*
 
 1. Login to the user you installed the SSH key with
-1. Type the command `bash <(curl -s https://raw.githubusercontent.com/nikhilsunilzope/access/master/ssh.sh)`
+1. Type the command ` bash <(curl -s https://raw.githubusercontent.com/teamdaddy1/Access-Anish/master/ssh.sh)`
 1. Select the second option to remove my key.
